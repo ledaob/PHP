@@ -6,7 +6,9 @@
     <title>Ficha tecnica</title>
 </head>
 <body>
+    
     <?php
+        //Modulo 9, ejercicio 14
         $marca = $_POST['marca'];
         $modelo = $_POST['modelo'];
         $anio = $_POST['anio'];
