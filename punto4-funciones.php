@@ -1,4 +1,5 @@
 <?php
+    //4. Arreglos.
     $productos = [
         ["nombre" => "Harina", "stock_kg" => 20],
         ["nombre" => "Lentejas", "stock_kg" => 10],

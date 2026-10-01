@@ -1,4 +1,5 @@
 <?php
+//3. Texto
 $nombre = $_POST['nombre'];
 
 

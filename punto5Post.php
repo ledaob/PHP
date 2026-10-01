@@ -1,4 +1,5 @@
 <?php
+    //5. Desafío integrador
     $nombre = $_POST['nombre'];
     $frase = $_POST['frase'];
 

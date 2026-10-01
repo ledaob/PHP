@@ -1,4 +1,5 @@
 <?php
+    //1. Primeras funciones
     function mostrarTitulo(){
         echo "Listado de alumnos <br>";
     }
@@ -15,7 +16,7 @@
     saludar('Luis <br>');
 
 
-
+    //2. Parametros y retorno
     function calcularArea($base, $altura){
         $area = $base * $altura;
         return $area;
